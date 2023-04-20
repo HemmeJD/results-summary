@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/results-summary-2yGfjirMfA)
-- Live Site URL: [Add live site URL here](https://hemmejd.github.io/results-summary/)
+- Solution URL: [https://www.frontendmentor.io/solutions/results-summary-2yGfjirMfA](https://www.frontendmentor.io/solutions/results-summary-2yGfjirMfA)
+- Live Site URL: [https://hemmejd.github.io/results-summary/](https://hemmejd.github.io/results-summary/)
 
 ## My process
 
