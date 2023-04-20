@@ -62,6 +62,7 @@ main {
     border-radius: 2em;
     overflow: hidden;
     background-color: var(--white);
+    filter: drop-shadow(10px 5px 10px #000a4b1d);
 }
 
 .results {
